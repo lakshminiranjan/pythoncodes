@@ -1,0 +1,3 @@
+Imp Note:
+We can do all the functions and evrything in the pythonsell iteself.
+We can even do mathematical operations.
